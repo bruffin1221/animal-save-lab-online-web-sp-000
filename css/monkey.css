@@ -9,4 +9,11 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-max)
+@media screen and (max-width: 406px) and (min-width: 1170px){
+  #monnkey{
+    position:absolute;
+    top: 550px;
+  }
+
+
+}
